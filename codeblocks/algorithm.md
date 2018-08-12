@@ -1,4 +1,4 @@
-# Algorithm for the codeblocks in /codebrocks directory
+# Algorithm for the codeblocks in /codeblocks directory
 
 ## Replicando
 
